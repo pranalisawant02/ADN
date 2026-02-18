@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Activity01\Activity01\bin\Debug\net10.0\Activity01.exe
+C:\Users\Lenovo\source\repos\Activity01\Activity01\bin\Debug\net10.0\Activity01.deps.json
+C:\Users\Lenovo\source\repos\Activity01\Activity01\bin\Debug\net10.0\Activity01.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Activity01\Activity01\bin\Debug\net10.0\Activity01.dll
+C:\Users\Lenovo\source\repos\Activity01\Activity01\bin\Debug\net10.0\Activity01.pdb
+C:\Users\Lenovo\source\repos\Activity01\Activity01\obj\Debug\net10.0\Activity01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Activity01\Activity01\obj\Debug\net10.0\Activity01.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Activity01\Activity01\obj\Debug\net10.0\Activity01.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Activity01\Activity01\obj\Debug\net10.0\Activity01.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Activity01\Activity01\obj\Debug\net10.0\Activity01.dll
+C:\Users\Lenovo\source\repos\Activity01\Activity01\obj\Debug\net10.0\refint\Activity01.dll
+C:\Users\Lenovo\source\repos\Activity01\Activity01\obj\Debug\net10.0\Activity01.pdb
+C:\Users\Lenovo\source\repos\Activity01\Activity01\obj\Debug\net10.0\Activity01.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Activity01\Activity01\obj\Debug\net10.0\ref\Activity01.dll
