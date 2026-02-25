@@ -1,0 +1,14 @@
+D:\.net\labwork\oop_concepts\abstract_class&method\abstract_class&method\bin\Debug\net10.0\abstract_class&method.exe
+D:\.net\labwork\oop_concepts\abstract_class&method\abstract_class&method\bin\Debug\net10.0\abstract_class&method.deps.json
+D:\.net\labwork\oop_concepts\abstract_class&method\abstract_class&method\bin\Debug\net10.0\abstract_class&method.runtimeconfig.json
+D:\.net\labwork\oop_concepts\abstract_class&method\abstract_class&method\bin\Debug\net10.0\abstract_class&method.dll
+D:\.net\labwork\oop_concepts\abstract_class&method\abstract_class&method\bin\Debug\net10.0\abstract_class&method.pdb
+D:\.net\labwork\oop_concepts\abstract_class&method\abstract_class&method\obj\Debug\net10.0\abstract_class&method.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\labwork\oop_concepts\abstract_class&method\abstract_class&method\obj\Debug\net10.0\abstract_class&method.AssemblyInfoInputs.cache
+D:\.net\labwork\oop_concepts\abstract_class&method\abstract_class&method\obj\Debug\net10.0\abstract_class&method.AssemblyInfo.cs
+D:\.net\labwork\oop_concepts\abstract_class&method\abstract_class&method\obj\Debug\net10.0\abstract_class&method.csproj.CoreCompileInputs.cache
+D:\.net\labwork\oop_concepts\abstract_class&method\abstract_class&method\obj\Debug\net10.0\abstract_class&method.dll
+D:\.net\labwork\oop_concepts\abstract_class&method\abstract_class&method\obj\Debug\net10.0\refint\abstract_class&method.dll
+D:\.net\labwork\oop_concepts\abstract_class&method\abstract_class&method\obj\Debug\net10.0\abstract_class&method.pdb
+D:\.net\labwork\oop_concepts\abstract_class&method\abstract_class&method\obj\Debug\net10.0\abstract_class&method.genruntimeconfig.cache
+D:\.net\labwork\oop_concepts\abstract_class&method\abstract_class&method\obj\Debug\net10.0\ref\abstract_class&method.dll

@@ -1,0 +1,14 @@
+D:\.net\labwork\arithmetic_operations\arithmetic_operations\arithmetic_operations\bin\Debug\net10.0\arithmetic_operations.exe
+D:\.net\labwork\arithmetic_operations\arithmetic_operations\arithmetic_operations\bin\Debug\net10.0\arithmetic_operations.deps.json
+D:\.net\labwork\arithmetic_operations\arithmetic_operations\arithmetic_operations\bin\Debug\net10.0\arithmetic_operations.runtimeconfig.json
+D:\.net\labwork\arithmetic_operations\arithmetic_operations\arithmetic_operations\bin\Debug\net10.0\arithmetic_operations.dll
+D:\.net\labwork\arithmetic_operations\arithmetic_operations\arithmetic_operations\bin\Debug\net10.0\arithmetic_operations.pdb
+D:\.net\labwork\arithmetic_operations\arithmetic_operations\arithmetic_operations\obj\Debug\net10.0\arithmetic_operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\labwork\arithmetic_operations\arithmetic_operations\arithmetic_operations\obj\Debug\net10.0\arithmetic_operations.AssemblyInfoInputs.cache
+D:\.net\labwork\arithmetic_operations\arithmetic_operations\arithmetic_operations\obj\Debug\net10.0\arithmetic_operations.AssemblyInfo.cs
+D:\.net\labwork\arithmetic_operations\arithmetic_operations\arithmetic_operations\obj\Debug\net10.0\arithmetic_operations.csproj.CoreCompileInputs.cache
+D:\.net\labwork\arithmetic_operations\arithmetic_operations\arithmetic_operations\obj\Debug\net10.0\arithmetic_operations.dll
+D:\.net\labwork\arithmetic_operations\arithmetic_operations\arithmetic_operations\obj\Debug\net10.0\refint\arithmetic_operations.dll
+D:\.net\labwork\arithmetic_operations\arithmetic_operations\arithmetic_operations\obj\Debug\net10.0\arithmetic_operations.pdb
+D:\.net\labwork\arithmetic_operations\arithmetic_operations\arithmetic_operations\obj\Debug\net10.0\arithmetic_operations.genruntimeconfig.cache
+D:\.net\labwork\arithmetic_operations\arithmetic_operations\arithmetic_operations\obj\Debug\net10.0\ref\arithmetic_operations.dll

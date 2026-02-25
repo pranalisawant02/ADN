@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\labwork\\oop_concepts\\polymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08A39120-56D1-4DD8-86C7-EFC3316A0735}|polymorphism\\polymorphism.csproj|d:\\.net\\labwork\\oop_concepts\\polymorphism\\polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A39120-56D1-4DD8-86C7-EFC3316A0735}|polymorphism\\polymorphism.csproj|solutionrelative:polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\labwork\\oop_concepts\\polymorphism\\polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "polymorphism\\Program.cs",
+              "ToolTip": "D:\\.net\\labwork\\oop_concepts\\polymorphism\\polymorphism\\Program.cs",
+              "RelativeToolTip": "polymorphism\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T05:30:35.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

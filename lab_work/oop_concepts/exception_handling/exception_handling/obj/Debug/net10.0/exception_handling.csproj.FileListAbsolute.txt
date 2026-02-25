@@ -1,0 +1,14 @@
+D:\.net\labwork\oop_concepts\exception_handling\exception_handling\bin\Debug\net10.0\exception_handling.exe
+D:\.net\labwork\oop_concepts\exception_handling\exception_handling\bin\Debug\net10.0\exception_handling.deps.json
+D:\.net\labwork\oop_concepts\exception_handling\exception_handling\bin\Debug\net10.0\exception_handling.runtimeconfig.json
+D:\.net\labwork\oop_concepts\exception_handling\exception_handling\bin\Debug\net10.0\exception_handling.dll
+D:\.net\labwork\oop_concepts\exception_handling\exception_handling\bin\Debug\net10.0\exception_handling.pdb
+D:\.net\labwork\oop_concepts\exception_handling\exception_handling\obj\Debug\net10.0\exception_handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\labwork\oop_concepts\exception_handling\exception_handling\obj\Debug\net10.0\exception_handling.AssemblyInfoInputs.cache
+D:\.net\labwork\oop_concepts\exception_handling\exception_handling\obj\Debug\net10.0\exception_handling.AssemblyInfo.cs
+D:\.net\labwork\oop_concepts\exception_handling\exception_handling\obj\Debug\net10.0\exception_handling.csproj.CoreCompileInputs.cache
+D:\.net\labwork\oop_concepts\exception_handling\exception_handling\obj\Debug\net10.0\exception_handling.dll
+D:\.net\labwork\oop_concepts\exception_handling\exception_handling\obj\Debug\net10.0\refint\exception_handling.dll
+D:\.net\labwork\oop_concepts\exception_handling\exception_handling\obj\Debug\net10.0\exception_handling.pdb
+D:\.net\labwork\oop_concepts\exception_handling\exception_handling\obj\Debug\net10.0\exception_handling.genruntimeconfig.cache
+D:\.net\labwork\oop_concepts\exception_handling\exception_handling\obj\Debug\net10.0\ref\exception_handling.dll

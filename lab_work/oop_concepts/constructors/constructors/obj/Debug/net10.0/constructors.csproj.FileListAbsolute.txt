@@ -1,0 +1,14 @@
+D:\.net\labwork\oop_concepts\constructors\constructors\bin\Debug\net10.0\constructors.exe
+D:\.net\labwork\oop_concepts\constructors\constructors\bin\Debug\net10.0\constructors.deps.json
+D:\.net\labwork\oop_concepts\constructors\constructors\bin\Debug\net10.0\constructors.runtimeconfig.json
+D:\.net\labwork\oop_concepts\constructors\constructors\bin\Debug\net10.0\constructors.dll
+D:\.net\labwork\oop_concepts\constructors\constructors\bin\Debug\net10.0\constructors.pdb
+D:\.net\labwork\oop_concepts\constructors\constructors\obj\Debug\net10.0\constructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\labwork\oop_concepts\constructors\constructors\obj\Debug\net10.0\constructors.AssemblyInfoInputs.cache
+D:\.net\labwork\oop_concepts\constructors\constructors\obj\Debug\net10.0\constructors.AssemblyInfo.cs
+D:\.net\labwork\oop_concepts\constructors\constructors\obj\Debug\net10.0\constructors.csproj.CoreCompileInputs.cache
+D:\.net\labwork\oop_concepts\constructors\constructors\obj\Debug\net10.0\constructors.dll
+D:\.net\labwork\oop_concepts\constructors\constructors\obj\Debug\net10.0\refint\constructors.dll
+D:\.net\labwork\oop_concepts\constructors\constructors\obj\Debug\net10.0\constructors.pdb
+D:\.net\labwork\oop_concepts\constructors\constructors\obj\Debug\net10.0\constructors.genruntimeconfig.cache
+D:\.net\labwork\oop_concepts\constructors\constructors\obj\Debug\net10.0\ref\constructors.dll

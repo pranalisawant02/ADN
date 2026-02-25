@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\labwork\\oop_concepts\\exception_handling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED12BC9-B29B-41D5-B79C-A55B4E07A238}|exception_handling\\exception_handling.csproj|d:\\.net\\labwork\\oop_concepts\\exception_handling\\exception_handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED12BC9-B29B-41D5-B79C-A55B4E07A238}|exception_handling\\exception_handling.csproj|solutionrelative:exception_handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\labwork\\oop_concepts\\exception_handling\\exception_handling\\Program.cs",
+              "RelativeDocumentMoniker": "exception_handling\\Program.cs",
+              "ToolTip": "D:\\.net\\labwork\\oop_concepts\\exception_handling\\exception_handling\\Program.cs",
+              "RelativeToolTip": "exception_handling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T05:36:43.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

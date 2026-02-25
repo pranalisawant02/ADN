@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\labwork\\arithmetic_operations\\arithmetic_operations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D49E1-F3B2-40EC-8B99-95B9F4057AB3}|arithmetic_operations\\arithmetic_operations.csproj|d:\\.net\\labwork\\arithmetic_operations\\arithmetic_operations\\arithmetic_operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D49E1-F3B2-40EC-8B99-95B9F4057AB3}|arithmetic_operations\\arithmetic_operations.csproj|solutionrelative:arithmetic_operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\labwork\\arithmetic_operations\\arithmetic_operations\\arithmetic_operations\\Program.cs",
+              "RelativeDocumentMoniker": "arithmetic_operations\\Program.cs",
+              "ToolTip": "D:\\.net\\labwork\\arithmetic_operations\\arithmetic_operations\\arithmetic_operations\\Program.cs",
+              "RelativeToolTip": "arithmetic_operations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T06:03:55.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\.net\labwork\solid_principles\interface segregation principle\interface segregation principle\bin\Debug\net10.0\interface segregation principle.exe
+D:\.net\labwork\solid_principles\interface segregation principle\interface segregation principle\bin\Debug\net10.0\interface segregation principle.deps.json
+D:\.net\labwork\solid_principles\interface segregation principle\interface segregation principle\bin\Debug\net10.0\interface segregation principle.runtimeconfig.json
+D:\.net\labwork\solid_principles\interface segregation principle\interface segregation principle\bin\Debug\net10.0\interface segregation principle.dll
+D:\.net\labwork\solid_principles\interface segregation principle\interface segregation principle\bin\Debug\net10.0\interface segregation principle.pdb
+D:\.net\labwork\solid_principles\interface segregation principle\interface segregation principle\obj\Debug\net10.0\interface segregation principle.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\labwork\solid_principles\interface segregation principle\interface segregation principle\obj\Debug\net10.0\interface segregation principle.AssemblyInfoInputs.cache
+D:\.net\labwork\solid_principles\interface segregation principle\interface segregation principle\obj\Debug\net10.0\interface segregation principle.AssemblyInfo.cs
+D:\.net\labwork\solid_principles\interface segregation principle\interface segregation principle\obj\Debug\net10.0\interface segregation principle.csproj.CoreCompileInputs.cache
+D:\.net\labwork\solid_principles\interface segregation principle\interface segregation principle\obj\Debug\net10.0\interface segregation principle.dll
+D:\.net\labwork\solid_principles\interface segregation principle\interface segregation principle\obj\Debug\net10.0\refint\interface segregation principle.dll
+D:\.net\labwork\solid_principles\interface segregation principle\interface segregation principle\obj\Debug\net10.0\interface segregation principle.pdb
+D:\.net\labwork\solid_principles\interface segregation principle\interface segregation principle\obj\Debug\net10.0\interface segregation principle.genruntimeconfig.cache
+D:\.net\labwork\solid_principles\interface segregation principle\interface segregation principle\obj\Debug\net10.0\ref\interface segregation principle.dll

@@ -1,0 +1,14 @@
+D:\.net\labwork\oop_concepts\inheritance\inheritance\bin\Debug\net10.0\inheritance.exe
+D:\.net\labwork\oop_concepts\inheritance\inheritance\bin\Debug\net10.0\inheritance.deps.json
+D:\.net\labwork\oop_concepts\inheritance\inheritance\bin\Debug\net10.0\inheritance.runtimeconfig.json
+D:\.net\labwork\oop_concepts\inheritance\inheritance\bin\Debug\net10.0\inheritance.dll
+D:\.net\labwork\oop_concepts\inheritance\inheritance\bin\Debug\net10.0\inheritance.pdb
+D:\.net\labwork\oop_concepts\inheritance\inheritance\obj\Debug\net10.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\labwork\oop_concepts\inheritance\inheritance\obj\Debug\net10.0\inheritance.AssemblyInfoInputs.cache
+D:\.net\labwork\oop_concepts\inheritance\inheritance\obj\Debug\net10.0\inheritance.AssemblyInfo.cs
+D:\.net\labwork\oop_concepts\inheritance\inheritance\obj\Debug\net10.0\inheritance.csproj.CoreCompileInputs.cache
+D:\.net\labwork\oop_concepts\inheritance\inheritance\obj\Debug\net10.0\inheritance.dll
+D:\.net\labwork\oop_concepts\inheritance\inheritance\obj\Debug\net10.0\refint\inheritance.dll
+D:\.net\labwork\oop_concepts\inheritance\inheritance\obj\Debug\net10.0\inheritance.pdb
+D:\.net\labwork\oop_concepts\inheritance\inheritance\obj\Debug\net10.0\inheritance.genruntimeconfig.cache
+D:\.net\labwork\oop_concepts\inheritance\inheritance\obj\Debug\net10.0\ref\inheritance.dll

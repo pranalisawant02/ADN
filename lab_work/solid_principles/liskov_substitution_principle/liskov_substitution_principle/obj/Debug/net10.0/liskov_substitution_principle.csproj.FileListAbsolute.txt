@@ -1,0 +1,14 @@
+D:\.net\labwork\solid_principles\liskov_substitution_principle\liskov_substitution_principle\bin\Debug\net10.0\liskov_substitution_principle.exe
+D:\.net\labwork\solid_principles\liskov_substitution_principle\liskov_substitution_principle\bin\Debug\net10.0\liskov_substitution_principle.deps.json
+D:\.net\labwork\solid_principles\liskov_substitution_principle\liskov_substitution_principle\bin\Debug\net10.0\liskov_substitution_principle.runtimeconfig.json
+D:\.net\labwork\solid_principles\liskov_substitution_principle\liskov_substitution_principle\bin\Debug\net10.0\liskov_substitution_principle.dll
+D:\.net\labwork\solid_principles\liskov_substitution_principle\liskov_substitution_principle\bin\Debug\net10.0\liskov_substitution_principle.pdb
+D:\.net\labwork\solid_principles\liskov_substitution_principle\liskov_substitution_principle\obj\Debug\net10.0\liskov_substitution_principle.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\labwork\solid_principles\liskov_substitution_principle\liskov_substitution_principle\obj\Debug\net10.0\liskov_substitution_principle.AssemblyInfoInputs.cache
+D:\.net\labwork\solid_principles\liskov_substitution_principle\liskov_substitution_principle\obj\Debug\net10.0\liskov_substitution_principle.AssemblyInfo.cs
+D:\.net\labwork\solid_principles\liskov_substitution_principle\liskov_substitution_principle\obj\Debug\net10.0\liskov_substitution_principle.csproj.CoreCompileInputs.cache
+D:\.net\labwork\solid_principles\liskov_substitution_principle\liskov_substitution_principle\obj\Debug\net10.0\liskov_substitution_principle.dll
+D:\.net\labwork\solid_principles\liskov_substitution_principle\liskov_substitution_principle\obj\Debug\net10.0\refint\liskov_substitution_principle.dll
+D:\.net\labwork\solid_principles\liskov_substitution_principle\liskov_substitution_principle\obj\Debug\net10.0\liskov_substitution_principle.pdb
+D:\.net\labwork\solid_principles\liskov_substitution_principle\liskov_substitution_principle\obj\Debug\net10.0\liskov_substitution_principle.genruntimeconfig.cache
+D:\.net\labwork\solid_principles\liskov_substitution_principle\liskov_substitution_principle\obj\Debug\net10.0\ref\liskov_substitution_principle.dll

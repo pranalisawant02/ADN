@@ -1,0 +1,14 @@
+D:\.net\labwork\oop_concepts\polymorphism\polymorphism\bin\Debug\net10.0\polymorphism.exe
+D:\.net\labwork\oop_concepts\polymorphism\polymorphism\bin\Debug\net10.0\polymorphism.deps.json
+D:\.net\labwork\oop_concepts\polymorphism\polymorphism\bin\Debug\net10.0\polymorphism.runtimeconfig.json
+D:\.net\labwork\oop_concepts\polymorphism\polymorphism\bin\Debug\net10.0\polymorphism.dll
+D:\.net\labwork\oop_concepts\polymorphism\polymorphism\bin\Debug\net10.0\polymorphism.pdb
+D:\.net\labwork\oop_concepts\polymorphism\polymorphism\obj\Debug\net10.0\polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\labwork\oop_concepts\polymorphism\polymorphism\obj\Debug\net10.0\polymorphism.AssemblyInfoInputs.cache
+D:\.net\labwork\oop_concepts\polymorphism\polymorphism\obj\Debug\net10.0\polymorphism.AssemblyInfo.cs
+D:\.net\labwork\oop_concepts\polymorphism\polymorphism\obj\Debug\net10.0\polymorphism.csproj.CoreCompileInputs.cache
+D:\.net\labwork\oop_concepts\polymorphism\polymorphism\obj\Debug\net10.0\polymorphism.dll
+D:\.net\labwork\oop_concepts\polymorphism\polymorphism\obj\Debug\net10.0\refint\polymorphism.dll
+D:\.net\labwork\oop_concepts\polymorphism\polymorphism\obj\Debug\net10.0\polymorphism.pdb
+D:\.net\labwork\oop_concepts\polymorphism\polymorphism\obj\Debug\net10.0\polymorphism.genruntimeconfig.cache
+D:\.net\labwork\oop_concepts\polymorphism\polymorphism\obj\Debug\net10.0\ref\polymorphism.dll

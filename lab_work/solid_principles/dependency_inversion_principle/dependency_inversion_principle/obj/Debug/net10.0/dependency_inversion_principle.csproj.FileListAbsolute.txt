@@ -1,0 +1,14 @@
+D:\.net\labwork\solid_principles\dependency_inversion_principle\dependency_inversion_principle\bin\Debug\net10.0\dependency_inversion_principle.exe
+D:\.net\labwork\solid_principles\dependency_inversion_principle\dependency_inversion_principle\bin\Debug\net10.0\dependency_inversion_principle.deps.json
+D:\.net\labwork\solid_principles\dependency_inversion_principle\dependency_inversion_principle\bin\Debug\net10.0\dependency_inversion_principle.runtimeconfig.json
+D:\.net\labwork\solid_principles\dependency_inversion_principle\dependency_inversion_principle\bin\Debug\net10.0\dependency_inversion_principle.dll
+D:\.net\labwork\solid_principles\dependency_inversion_principle\dependency_inversion_principle\bin\Debug\net10.0\dependency_inversion_principle.pdb
+D:\.net\labwork\solid_principles\dependency_inversion_principle\dependency_inversion_principle\obj\Debug\net10.0\dependency_inversion_principle.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\labwork\solid_principles\dependency_inversion_principle\dependency_inversion_principle\obj\Debug\net10.0\dependency_inversion_principle.AssemblyInfoInputs.cache
+D:\.net\labwork\solid_principles\dependency_inversion_principle\dependency_inversion_principle\obj\Debug\net10.0\dependency_inversion_principle.AssemblyInfo.cs
+D:\.net\labwork\solid_principles\dependency_inversion_principle\dependency_inversion_principle\obj\Debug\net10.0\dependency_inversion_principle.csproj.CoreCompileInputs.cache
+D:\.net\labwork\solid_principles\dependency_inversion_principle\dependency_inversion_principle\obj\Debug\net10.0\dependency_inversion_principle.dll
+D:\.net\labwork\solid_principles\dependency_inversion_principle\dependency_inversion_principle\obj\Debug\net10.0\refint\dependency_inversion_principle.dll
+D:\.net\labwork\solid_principles\dependency_inversion_principle\dependency_inversion_principle\obj\Debug\net10.0\dependency_inversion_principle.pdb
+D:\.net\labwork\solid_principles\dependency_inversion_principle\dependency_inversion_principle\obj\Debug\net10.0\dependency_inversion_principle.genruntimeconfig.cache
+D:\.net\labwork\solid_principles\dependency_inversion_principle\dependency_inversion_principle\obj\Debug\net10.0\ref\dependency_inversion_principle.dll

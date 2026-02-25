@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\labwork\\solid_principles\\liskov_substitution_principle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B9DD86-116B-41BF-B5EF-06D736533458}|liskov_substitution_principle\\liskov_substitution_principle.csproj|d:\\.net\\labwork\\solid_principles\\liskov_substitution_principle\\liskov_substitution_principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B9DD86-116B-41BF-B5EF-06D736533458}|liskov_substitution_principle\\liskov_substitution_principle.csproj|solutionrelative:liskov_substitution_principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\labwork\\solid_principles\\liskov_substitution_principle\\liskov_substitution_principle\\Program.cs",
+              "RelativeDocumentMoniker": "liskov_substitution_principle\\Program.cs",
+              "ToolTip": "D:\\.net\\labwork\\solid_principles\\liskov_substitution_principle\\liskov_substitution_principle\\Program.cs",
+              "RelativeToolTip": "liskov_substitution_principle\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T05:53:07.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "dependency_inversion_principle/1.0.0": {
+        "runtime": {
+          "dependency_inversion_principle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dependency_inversion_principle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
