@@ -1,0 +1,156 @@
+Where Companies Use Delegates
+
+Delegates are mainly used for:
+
+1️ Event Handling (Very Common in Industry)
+
+In real applications (Desktop, Web, Mobile):
+
+Button Click
+
+Form Submit
+
+Payment Success
+
+Order Placed
+
+Example:
+In an e-commerce app like Amazon, when order is placed:
+
+Send Email
+
+Update Database
+
+Reduce Stock
+
+Generate Invoice
+
+All these are triggered using delegates/events internally.
+
+👉 In C#, this is done using event (which is based on delegates).
+
+2️ Callback Mechanism
+
+When a task finishes, call another method.
+
+Example:
+
+File download complete → show message
+
+Payment successful → redirect user
+
+API call completed → update UI
+
+This is done using delegate callbacks.
+
+3️ Logging Systems
+
+In large systems:
+
+Log to file
+
+Log to database
+
+Log to cloud
+
+Multicast delegates allow calling all log methods together.
+
+4️ LINQ (Very Important)
+
+All LINQ methods internally use delegates.
+
+Example:
+
+students.Where(s => s.Marks > 80);
+
+Here:
+
+s => s.Marks > 80 is a lambda
+
+It is passed as a delegate
+
+Companies heavily use LINQ in:
+
+Data filtering
+
+Searching
+
+Sorting
+
+Reporting
+
+ Where Companies Use Lambda Expressions
+
+Lambda expressions are used:
+
+1️ Sorting & Filtering Data
+
+Example:
+
+employees.OrderBy(e => e.Salary);
+
+Used in:
+
+HR systems
+
+Banking apps
+
+Admin dashboards
+
+2️ ASP.NET Core Web APIs
+
+Example:
+
+app.MapGet("/", () => "Hello World");
+
+This uses a lambda function.
+
+3️ Task & Asynchronous Programming
+
+Example:
+
+Task.Run(() => ProcessData());
+
+Used in:
+
+Background jobs
+
+Multi-threading
+
+Microservices
+
+4️ Event Subscription
+button.Click += (sender, e) =>
+{
+    Console.WriteLine("Button clicked");
+};
+
+Very common in:
+
+Windows Forms
+
+WPF
+
+Blazor
+
+ Real Company Example (Simple Explanation)
+
+In a Banking App:
+
+When a transaction happens:
+
+Validate balance
+
+Deduct money
+
+Send SMS
+
+Send Email
+
+Log transaction
+
+This can be handled using:
+
+Multicast Delegates
+
+Lambda expressions

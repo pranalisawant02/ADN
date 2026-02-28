@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ADN\\lab_work\\Deligates\\Linq_queries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66FEF8B0-724A-4C0D-BA2B-0266D8E9F403}|Linq_queries\\Linq_queries.csproj|c:\\adn\\lab_work\\deligates\\linq_queries\\linq_queries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FEF8B0-724A-4C0D-BA2B-0266D8E9F403}|Linq_queries\\Linq_queries.csproj|solutionrelative:linq_queries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ADN\\lab_work\\Deligates\\Linq_queries\\Linq_queries\\Program.cs",
+              "RelativeDocumentMoniker": "Linq_queries\\Program.cs",
+              "ToolTip": "C:\\ADN\\lab_work\\Deligates\\Linq_queries\\Linq_queries\\Program.cs",
+              "RelativeToolTip": "Linq_queries\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T05:59:41.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

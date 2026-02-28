@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ADN\\lab_work\\Deligates\\multi-caste deligate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2E2CBC-6FE9-2B63-C2D4-95CE647478FF}|multi-caste deligate\\multi-caste deligate.csproj|c:\\adn\\lab_work\\deligates\\multi-caste deligate\\multi-caste deligate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2E2CBC-6FE9-2B63-C2D4-95CE647478FF}|multi-caste deligate\\multi-caste deligate.csproj|solutionrelative:multi-caste deligate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ADN\\lab_work\\Deligates\\multi-caste deligate\\multi-caste deligate\\Program.cs",
+              "RelativeDocumentMoniker": "multi-caste deligate\\Program.cs",
+              "ToolTip": "C:\\ADN\\lab_work\\Deligates\\multi-caste deligate\\multi-caste deligate\\Program.cs",
+              "RelativeToolTip": "multi-caste deligate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T05:35:20.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

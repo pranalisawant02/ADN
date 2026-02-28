@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\.net\\labwork\\solid_principles\\singleresponsibilityprinciple\\",
+  "WorkspaceRootPath": "C:\\ADN\\lab_work\\solid_principles\\singleresponsibilityprinciple\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B19E225E-C702-4913-B0F9-228E046E1A21}|singleresponsibilityprinciple\\singleresponsibilityprinciple.csproj|d:\\.net\\labwork\\solid_principles\\singleresponsibilityprinciple\\singleresponsibilityprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B19E225E-C702-4913-B0F9-228E046E1A21}|singleresponsibilityprinciple\\singleresponsibilityprinciple.csproj|solutionrelative:singleresponsibilityprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50526472-92DB-0C25-74E6-04DEBB880179}|singleresponsibilityprinciple\\singleresponsibilityprinciple.csproj|c:\\adn\\lab_work\\solid_principles\\singleresponsibilityprinciple\\singleresponsibilityprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50526472-92DB-0C25-74E6-04DEBB880179}|singleresponsibilityprinciple\\singleresponsibilityprinciple.csproj|solutionrelative:singleresponsibilityprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.net\\labwork\\solid_principles\\singleresponsibilityprinciple\\singleresponsibilityprinciple\\Program.cs",
+              "DocumentMoniker": "C:\\ADN\\lab_work\\solid_principles\\singleresponsibilityprinciple\\singleresponsibilityprinciple\\Program.cs",
               "RelativeDocumentMoniker": "singleresponsibilityprinciple\\Program.cs",
-              "ToolTip": "D:\\.net\\labwork\\solid_principles\\singleresponsibilityprinciple\\singleresponsibilityprinciple\\Program.cs",
+              "ToolTip": "C:\\ADN\\lab_work\\solid_principles\\singleresponsibilityprinciple\\singleresponsibilityprinciple\\Program.cs",
               "RelativeToolTip": "singleresponsibilityprinciple\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\.net\\labwork\\arithmetic_operations\\arithmetic_operations\\",
+  "WorkspaceRootPath": "C:\\ADN\\lab_work\\arithmetic_operations\\arithmetic_operations\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE4D49E1-F3B2-40EC-8B99-95B9F4057AB3}|arithmetic_operations\\arithmetic_operations.csproj|d:\\.net\\labwork\\arithmetic_operations\\arithmetic_operations\\arithmetic_operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE4D49E1-F3B2-40EC-8B99-95B9F4057AB3}|arithmetic_operations\\arithmetic_operations.csproj|solutionrelative:arithmetic_operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49CB68ED-9F59-02DE-AFE7-E929A1A65698}|arithmetic_operations\\arithmetic_operations.csproj|c:\\adn\\lab_work\\arithmetic_operations\\arithmetic_operations\\arithmetic_operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CB68ED-9F59-02DE-AFE7-E929A1A65698}|arithmetic_operations\\arithmetic_operations.csproj|solutionrelative:arithmetic_operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.net\\labwork\\arithmetic_operations\\arithmetic_operations\\arithmetic_operations\\Program.cs",
+              "DocumentMoniker": "C:\\ADN\\lab_work\\arithmetic_operations\\arithmetic_operations\\arithmetic_operations\\Program.cs",
               "RelativeDocumentMoniker": "arithmetic_operations\\Program.cs",
-              "ToolTip": "D:\\.net\\labwork\\arithmetic_operations\\arithmetic_operations\\arithmetic_operations\\Program.cs",
+              "ToolTip": "C:\\ADN\\lab_work\\arithmetic_operations\\arithmetic_operations\\arithmetic_operations\\Program.cs",
               "RelativeToolTip": "arithmetic_operations\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

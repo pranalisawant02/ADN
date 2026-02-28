@@ -1,0 +1,15 @@
+C:\ADN\lab_work\Deligates\Linq_queries\Linq_queries\bin\Debug\net10.0\Linq_queries.exe
+C:\ADN\lab_work\Deligates\Linq_queries\Linq_queries\bin\Debug\net10.0\Linq_queries.deps.json
+C:\ADN\lab_work\Deligates\Linq_queries\Linq_queries\bin\Debug\net10.0\Linq_queries.runtimeconfig.json
+C:\ADN\lab_work\Deligates\Linq_queries\Linq_queries\bin\Debug\net10.0\Linq_queries.dll
+C:\ADN\lab_work\Deligates\Linq_queries\Linq_queries\bin\Debug\net10.0\Linq_queries.pdb
+C:\ADN\lab_work\Deligates\Linq_queries\Linq_queries\obj\Debug\net10.0\Linq_queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADN\lab_work\Deligates\Linq_queries\Linq_queries\obj\Debug\net10.0\Linq_queries.AssemblyInfoInputs.cache
+C:\ADN\lab_work\Deligates\Linq_queries\Linq_queries\obj\Debug\net10.0\Linq_queries.AssemblyInfo.cs
+C:\ADN\lab_work\Deligates\Linq_queries\Linq_queries\obj\Debug\net10.0\Linq_queries.csproj.CoreCompileInputs.cache
+C:\ADN\lab_work\Deligates\Linq_queries\Linq_queries\obj\Debug\net10.0\Linq_queries.sourcelink.json
+C:\ADN\lab_work\Deligates\Linq_queries\Linq_queries\obj\Debug\net10.0\Linq_queries.dll
+C:\ADN\lab_work\Deligates\Linq_queries\Linq_queries\obj\Debug\net10.0\refint\Linq_queries.dll
+C:\ADN\lab_work\Deligates\Linq_queries\Linq_queries\obj\Debug\net10.0\Linq_queries.pdb
+C:\ADN\lab_work\Deligates\Linq_queries\Linq_queries\obj\Debug\net10.0\Linq_queries.genruntimeconfig.cache
+C:\ADN\lab_work\Deligates\Linq_queries\Linq_queries\obj\Debug\net10.0\ref\Linq_queries.dll

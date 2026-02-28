@@ -1,0 +1,15 @@
+C:\ADN\lab_work\Deligates\Calculator\Calculator\bin\Debug\net10.0\Calculator.exe
+C:\ADN\lab_work\Deligates\Calculator\Calculator\bin\Debug\net10.0\Calculator.deps.json
+C:\ADN\lab_work\Deligates\Calculator\Calculator\bin\Debug\net10.0\Calculator.runtimeconfig.json
+C:\ADN\lab_work\Deligates\Calculator\Calculator\bin\Debug\net10.0\Calculator.dll
+C:\ADN\lab_work\Deligates\Calculator\Calculator\bin\Debug\net10.0\Calculator.pdb
+C:\ADN\lab_work\Deligates\Calculator\Calculator\obj\Debug\net10.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADN\lab_work\Deligates\Calculator\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfoInputs.cache
+C:\ADN\lab_work\Deligates\Calculator\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfo.cs
+C:\ADN\lab_work\Deligates\Calculator\Calculator\obj\Debug\net10.0\Calculator.csproj.CoreCompileInputs.cache
+C:\ADN\lab_work\Deligates\Calculator\Calculator\obj\Debug\net10.0\Calculator.sourcelink.json
+C:\ADN\lab_work\Deligates\Calculator\Calculator\obj\Debug\net10.0\Calculator.dll
+C:\ADN\lab_work\Deligates\Calculator\Calculator\obj\Debug\net10.0\refint\Calculator.dll
+C:\ADN\lab_work\Deligates\Calculator\Calculator\obj\Debug\net10.0\Calculator.pdb
+C:\ADN\lab_work\Deligates\Calculator\Calculator\obj\Debug\net10.0\Calculator.genruntimeconfig.cache
+C:\ADN\lab_work\Deligates\Calculator\Calculator\obj\Debug\net10.0\ref\Calculator.dll
