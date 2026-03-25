@@ -1,0 +1,15 @@
+C:\ADN\lab_work\Asynchronous_prog\EXP_05\EXP_05\bin\Debug\net10.0\EXP_05.exe
+C:\ADN\lab_work\Asynchronous_prog\EXP_05\EXP_05\bin\Debug\net10.0\EXP_05.deps.json
+C:\ADN\lab_work\Asynchronous_prog\EXP_05\EXP_05\bin\Debug\net10.0\EXP_05.runtimeconfig.json
+C:\ADN\lab_work\Asynchronous_prog\EXP_05\EXP_05\bin\Debug\net10.0\EXP_05.dll
+C:\ADN\lab_work\Asynchronous_prog\EXP_05\EXP_05\bin\Debug\net10.0\EXP_05.pdb
+C:\ADN\lab_work\Asynchronous_prog\EXP_05\EXP_05\obj\Debug\net10.0\EXP_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADN\lab_work\Asynchronous_prog\EXP_05\EXP_05\obj\Debug\net10.0\EXP_05.AssemblyInfoInputs.cache
+C:\ADN\lab_work\Asynchronous_prog\EXP_05\EXP_05\obj\Debug\net10.0\EXP_05.AssemblyInfo.cs
+C:\ADN\lab_work\Asynchronous_prog\EXP_05\EXP_05\obj\Debug\net10.0\EXP_05.csproj.CoreCompileInputs.cache
+C:\ADN\lab_work\Asynchronous_prog\EXP_05\EXP_05\obj\Debug\net10.0\EXP_05.sourcelink.json
+C:\ADN\lab_work\Asynchronous_prog\EXP_05\EXP_05\obj\Debug\net10.0\EXP_05.dll
+C:\ADN\lab_work\Asynchronous_prog\EXP_05\EXP_05\obj\Debug\net10.0\refint\EXP_05.dll
+C:\ADN\lab_work\Asynchronous_prog\EXP_05\EXP_05\obj\Debug\net10.0\EXP_05.pdb
+C:\ADN\lab_work\Asynchronous_prog\EXP_05\EXP_05\obj\Debug\net10.0\EXP_05.genruntimeconfig.cache
+C:\ADN\lab_work\Asynchronous_prog\EXP_05\EXP_05\obj\Debug\net10.0\ref\EXP_05.dll
