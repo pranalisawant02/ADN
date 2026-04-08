@@ -1,0 +1,44 @@
+@model CRMAdvanced.Models.Student
+
+<form asp-action="Create" method="post">
+
+    <div>
+        <label>Name</label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </div>
+
+    <div>
+        <label>Email</label>
+        <input asp-for="Email" />
+        <span asp-validation-for="Email"></span>
+    </div>
+
+    <div>
+        <label>Age</label>
+        <input asp-for="Age" />
+        <span asp-validation-for="Age"></span>
+    </div>
+
+    <div>
+    <label>Password</label>
+    <input asp-for="Password" type="password" id="passwordField" />
+    <button type="button" onclick="togglePassword()">Show</button>
+    <span asp-validation-for="Password"></span>
+</div>
+
+    <button type="submit">Submit</button>
+
+</form>
+
+<script>
+    function togglePassword() {
+        var pwd = document.getElementById("passwordField");
+
+        if (pwd.type === "password") {
+            pwd.type = "text";
+        } else {
+            pwd.type = "password";
+        }
+    }
+</script>

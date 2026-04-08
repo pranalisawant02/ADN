@@ -1,0 +1,21 @@
+MVC - Model View Controller It is a design pattern or architecture used to organize
+code in web application.
+
+Model => data layer , handles data and business logic , communicates with db
+Controller : is a brain of MVC, handles user request , connects model and view
+view : UI 
+
+Data annotation => they are attributes used in model class to define validation rules.
+properties -> [require] - name , [stringLength(50)] - password, [range] - age
+
+ex. 
+step 1 :
+dotnet new mvc -n student.cs -> creates new project
+step 2:
+write student.cs in model folder
+step 3:
+create student_controller.cs in controller
+step 4 :
+view -> student folder create -> html file name -> index.html -> add h2 tag 
+step5 :
+@model List<Student>Mvc ..... import model controller file
