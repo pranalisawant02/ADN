@@ -1,0 +1,43 @@
+@model List<EventManager.Models.Event>
+
+<h2>All Events</h2>
+
+<a href="/Event/Create" class="btn btn-primary mb-3">Create Event</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Date</th>
+            <th>Price</th>
+            <th>Seats</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+
+    <tbody>
+    @if (Model != null && Model.Count > 0)
+    {
+        foreach (var e in Model)
+        {
+            <tr>
+                <td>@e.Name</td>
+                <td>@e.Date.ToShortDateString()</td>
+                <td>@e.TicketPrice</td>
+                <td>@e.AvailableSeats</td>
+                <td>
+                    <a href="/Event/Book?id=@e.Id&quantity=1" class="btn btn-success btn-sm">Book</a>
+                    <a href="/Event/Edit/@e.Id" class="btn btn-warning btn-sm">Edit</a>
+                    <a href="/Event/Delete/@e.Id" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    }
+    else
+    {
+        <tr>
+            <td colspan="5" class="text-center">No events found</td>
+        </tr>
+    }
+    </tbody>
+</table>

@@ -1,0 +1,22 @@
+@model List<EventManager.Models.Event>
+
+<h2>Upcoming Events</h2>
+
+<table class="table table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>Name</th>
+            <th>Date</th>
+        </tr>
+    </thead>
+
+    <tbody>
+    @foreach (var e in Model)
+    {
+        <tr>
+            <td>@e.Name</td>
+            <td>@e.Date.ToShortDateString()</td>
+        </tr>
+    }
+    </tbody>
+</table>

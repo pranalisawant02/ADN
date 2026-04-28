@@ -1,0 +1,17 @@
+@model EventManager.Models.Event
+
+<h2>Delete Event</h2>
+
+<h4>Are you sure you want to delete this?</h4>
+
+<div class="mb-3">
+    <strong>@Model.Name</strong><br />
+    @Model.Date.ToShortDateString()
+</div>
+
+<form asp-action="Delete">
+    <input type="hidden" asp-for="Id" />
+
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a href="/Event" class="btn btn-secondary">Cancel</a>
+</form>

@@ -1,0 +1,43 @@
+"ef" is tool in dotnet to help us to work wwith db using C# instead of sql query.
+example- ef auto coverts c# code to sql query
+
+EF removes the need to write sql query manually , it allows developers interact with db using objects
+
+why we use EF?
+without this we ned to sql queries manually , more chance to error , time - consuming
+less code -> easy to maintain -> develops fast
+without EF 
+ex => select * from student where id = 1;
+EF => context.students.find(1)
+
+//entity framework core 
+ => It is latest, light weight, and cross platform version
+ Ef core is a model version of entity framework that works on windows ,linux and mac
+
+ // what is ORM?
+ => Object relational mapping - It maps C# classes to db table and object to rows.
+
+ //coding approach
+ => There are 2 types of coding approach-
+ 1. code First approach
+ => start with coding, db created automating
+
+ 2. database first
+ => db is already exists, generate c# classes from db
+
+exp 8 : 
+
+ C# classes -
+ db context - main class that connects app to db - ex 
+ public DbSet <Students> {
+    get;set;
+ }
+ migration - it is used to create or update db structure automatically
+ 
+ //what is dbSet
+ => what represent a table in db
+
+//Activity:
+//1. what is CRUD opn
+/2. what is http methods
+ 
