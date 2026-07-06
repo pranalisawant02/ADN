@@ -1,0 +1,6 @@
+@LegalDocSummarizer.Api_HostAddress = http://localhost:5277
+
+GET {{LegalDocSummarizer.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
